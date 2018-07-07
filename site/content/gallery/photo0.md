@@ -1,5 +1,5 @@
 ---
-title: "asdf"
-image: "/img/gallery/photo0.jpg"
+title: table is set
+image: /img/gallery/photo0.jpg
 ---
 
