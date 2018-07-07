@@ -1,5 +1,5 @@
 ---
-title: "asdf"
-image: "/img/gallery/photo4.jpg"
+title: Boiling stew
+image: /img/gallery/photo4.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "asdf"
-image: "/img/gallery/photo6.jpg"
+title: excited customer
+image: /img/gallery/photo6.jpg
 ---
 
