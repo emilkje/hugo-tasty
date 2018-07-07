@@ -1,5 +1,5 @@
 ---
-title: "asdf"
-image: "/img/gallery/photo1.jpg"
+title: lamb chops
+image: /img/gallery/photo1.jpg
 ---
 
