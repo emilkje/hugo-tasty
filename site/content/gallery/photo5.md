@@ -1,5 +1,5 @@
 ---
-title: "asdf"
-image: "/img/gallery/photo5.jpg"
+title: food arranging
+image: /img/gallery/photo5.jpg
 ---
 
