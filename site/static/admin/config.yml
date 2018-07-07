@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: emilkje/hugo-tasty
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "src/img/gallery"
+
+collection:
+  - name: food
+    label: "Food Item"
+    folder: "site/content/food"
+    create: true
+    fields:
+      - {label: "Name of Item", name: "title", widget: "string"}
+      - {label: "Supported Meals", name: "categories", widget: "list", default: ["lunch", "dinner"]}
+      - {label: "Ingedients/Description", name: "description", widget: "text"}
+      - {label: "Type of Food", name: "type", widget: "string", default: "raw bar"}
+      - {label: "Price", name: "price", widget: "string"}
