@@ -1,2 +1,6 @@
 @import "imports/base.css";
 @import "imports/menu.css";
+
+.calltoaction {
+    margin: 30vh 0;
+}
