@@ -5,7 +5,7 @@ title: "half oyster"
 description: kusshi (bc) marin miyagi (ca), beausoleil (nb), island creek (ma), pacific gold (ca)
 categories:
   - dinner
-type: Raw Bar
-price: 24
+type: raw bar
+price: 34
 ---
 

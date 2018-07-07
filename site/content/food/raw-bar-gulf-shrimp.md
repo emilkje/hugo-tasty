@@ -5,7 +5,7 @@ title: "chilled wild lousiana gulf shrimp"
 description: spicy coctail sauce, thai basil aioli
 categories:
   - lunch
-type: Raw Bar
+type: raw bar
 price: 18
 ---
 

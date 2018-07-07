@@ -5,7 +5,7 @@ title: "live atlantic sea scallop"
 description: lime-cilantro vinaigrette, sea salt
 categories:
   - lunch
-type: Raw Bar
+type: raw bar
 price: 18
 ---
 

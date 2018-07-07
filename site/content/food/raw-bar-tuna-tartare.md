@@ -5,7 +5,7 @@ title: "spicy ahi tuna tartare"
 description: cucumber, french breakfast radish, sesame seeds, lomongrass, pnzu, rice cracker
 categories:
   - lunch
-type: Raw Bar
+type: raw bar
 price: 20
 ---
 
