@@ -1,27 +1,25 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "kjels'"
-
+[[menu.main]]
+name = "Food"
+url = "/food"
+weight = 2
+[[menu.main]]
+name = "Make a reservation"
+url = "/contact"
+weight = 1
+[[menu.main]]
+name = "Gallery"
+url = "/gallery"
+weight = 4
+[[menu.main]]
+name = "Drinks"
+url = "/drinks"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
 [params]
-  description = "Schmaka diiigg."
-
-[[menu.main]]
-    name = "Make a reservation"
-    url  = "/contact"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url  = "/about"
-    weight = 2
-[[menu.main]]
-    name = "Food"
-    url  = "/food"
-    weight = 3
-[[menu.main]]
-    name = "Drinks"
-    url  = "/drinks"
-    weight = 4
-[[menu.main]]
-    name = "Gallery"
-    url  = "/gallery"
-    weight = 5
+description = "Schmaka diiigg."
